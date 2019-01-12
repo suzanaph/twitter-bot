@@ -1,6 +1,7 @@
 # Twitter Bot
 ### Um bot para o twitter que retweeta os tweets dos usuários com uma palavra específica. 
 
+ - Desenvolvido em Python, utilizando a bibliteca [Tweetpy](https://github.com/tweepy/tweepy)
  - Respeita a restrição de requisições imposta pela API
  - A palavra escolhida para teste foi 'Pudim'
 
